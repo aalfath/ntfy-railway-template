@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/ntfy-2?utm_medium=integration&utm_source=button&utm_campaign=ntfy)
+
 # ntfy on Railway
 
 A Railway template for [ntfy](https://ntfy.sh), the open-source push notification server: send notifications to your phone or desktop with a simple HTTP `PUT`/`POST`.

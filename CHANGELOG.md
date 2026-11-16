@@ -2,6 +2,10 @@
 
 Each entry is one version of this template. Breaking changes are listed first.
 
+## 2026-11-16: Deploy on Railway button
+
+- README starts with the Deploy on Railway button for the published template `ntfy-2`. No change to the app or its settings.
+
 ## 2026-11-16: ntfy v2.38.0
 
 - First version of the template: `binwiederhier/ntfy:v2.38.0` pinned by digest
