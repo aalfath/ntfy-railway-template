@@ -4,7 +4,7 @@
 
 A Railway template for [ntfy](https://ntfy.sh), the open-source push notification server: send notifications to your phone or desktop with a simple HTTP `PUT`/`POST`.
 
-This repo builds the official image `binwiederhier/ntfy:v2.38.0`, pinned by digest, with a small start script (`start.sh`) that applies Railway-friendly defaults.
+This repo builds the official image `binwiederhier/ntfy:v2.38.1`, pinned by digest, with a small start script (`start.sh`) that applies Railway-friendly defaults.
 
 ## What the template deploys
 
